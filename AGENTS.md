@@ -8,6 +8,8 @@ Codex 仅作为执行者，根据现有权威文档、ROADMAP 和明确任务实
 
 - `docs/PRODUCT.md`：产品范围与产品目标的权威来源。
 - `docs/ARCHITECTURE.md`：技术架构与实现边界的权威来源。
+- `docs/TECH_STACK.md`：开发技术、核心依赖与技术选型边界的权威来源。
+- `docs/DESIGN.md`：视觉设计、布局、组件形态与交互规则的权威来源。
 
 Codex 只能读取、理解并执行这些权威文档中的要求，不得自行修改这些文档。
 
